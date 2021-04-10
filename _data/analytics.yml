@@ -1,9 +1,10 @@
 google:
-  id: UA-100531691-1
+  id: G-HGV9EV5L7S
 
 matomo:
   url: https://vps.irockbunny.com/analytics/
   domains:
-  - "*.byr-navi.com"
+  - "*.qwejay.cn"
   site_id: 1
-  token: b20d2b5002a1241da41853f33eccccdd
+  token: 7e76de8b4e3ba12e0f7b4db217bf2365
+

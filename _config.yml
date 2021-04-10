@@ -1,5 +1,5 @@
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository: QwejayHuang
+repository_url: https://github.com/qwejay
 
 timezone: Asia/Shanghai
 lang: zh_CN
@@ -12,11 +12,11 @@ keywords: 导航, QWEJAY
 url: https://i.qwejay.cn
 established_at: "2021-04-10T00:00+08:00"
 
-author: iROCKBUNNY
-author_url: https://irockbunny.com
-organization: TEELAB
-organization_url: https://teelab.net
-contact: contact[at]irockbunny[dot]com
+author: QwejayHuang
+author_url: https://i.qwejay.cn/
+organization: QWE
+organization_url: https://i.qwejay.cn/
+contact: contact[at]i.qwejay[dot]cn
 
 image: /images/logo.png
 logo: /images/logo.png
