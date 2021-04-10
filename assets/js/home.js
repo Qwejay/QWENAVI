@@ -8,7 +8,7 @@ function updateGitHub(repository) {
 var repository = $('meta[name=repository]').attr('content');
 updateGitHub(repository);
 
-// search
+// 搜索
 $('#search-services').dropdown();
 
 function updateDropdown() {
@@ -30,14 +30,14 @@ function redirect(service, query) {
     window.open(`search/?service=${encodeURIComponent(service.text())}&query=${query}&next=${encodeURIComponent(service.data('url').replace('{query}', query))}`, '_blank');
 };
 
-// initialize previous used search service
+// 初始化以前使用的搜索服务
 if (Cookies.get('byr_navi_previous_used_search_service') === undefined || Cookies.get('byr_navi_previous_used_search_service') === '' || $(`#${Cookies.get('byr_navi_previous_used_search_service')}`).length === 0) {
     setCookie('byr_navi_previous_used_search_service', $('#search-services').val());
 } else {
     updateDropdown();
 };
 
-// search button
+// 搜索按钮
 $('#search-button').click(function () {
     let service = $(`#${$('#search-services').val()}`);
     let query = $('#search-query').val();
@@ -51,17 +51,17 @@ $('#search-button').click(function () {
     };
 });
 
-// query input: click to select
+// 查询输入：自动对焦
 $('#search-query').click(function () {
     $(this).select();
 });
 
-// query input: auto focus
+// 查询输入:自动对焦
 $(document).ready(function () {
     $('#search-query').focus();
 });
 
-// query input: press return/enter to submit
+// 查询输入:按回车键提交
 $(window).keyup(function (event) {
     let windowTop = $(window).scrollTop();
     let windowHeight = $(window).innerHeight();
@@ -87,7 +87,7 @@ $(window).keyup(function (event) {
     };
 });
 
-// query input: input anything to restore
+// 查询输入:输入任何要恢复的内容
 $('#search-query').keyup(function (event) {
     if (event.key) {
         if ($('#search-query').val()) {
@@ -97,7 +97,7 @@ $('#search-query').keyup(function (event) {
     };
 });
 
-// initialize customized shortcuts
+// 初始化自定义快捷键
 if (Cookies.get('byr_navi_search_shortcuts')) {
     let shortcuts = JSON.parse(Cookies.get('byr_navi_search_shortcuts'));
     $('#search-shortcuts .ui.label').each(function () {
@@ -113,7 +113,7 @@ if (Cookies.get('byr_navi_search_shortcuts')) {
     });
 };
 
-// shortcuts
+// 图标
 $('#search-shortcuts .ui.label').each(function () {
     $(this).click(function () {
         let service = $(`#${$(this).data('search-service-id')}`);
@@ -130,7 +130,7 @@ $('#search-shortcuts .ui.label').each(function () {
     });
 });
 
-// query suggestions
+// 查询建议
 var sugParams = {
     "XOffset": -3, //提示框位置横向偏移量,单位px
     "YOffset": -2, //提示框位置纵向偏移量,单位px
