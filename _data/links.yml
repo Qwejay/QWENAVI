@@ -193,57 +193,71 @@
       style: basic
       url: https://www.linkedin.com/
 
-  - name: 学习
+  - name: 教育
     links:
-    - name: Coursera
+    - name: 佛山市教育局
       style: basic
-      url: https://www.coursera.org/
+      url: http://edu.foshan.gov.cn/
 
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
-
-    - name: 网易公开课
-      style: basic
-      url: http://open.163.com/
-
-    - name: W3School
-      style: basic
-      url: http://www.w3school.com.cn/
-
-    - name: Stack Overflow
-      icon: stack overflow orange
-      style: basic
-      url: https://stackoverflow.com/
-
-    - name: SegmentFault
-      style: basic
-      url: http://segmentfault.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
-
-    - name: Google Open Source
-      icon: code blue
-      style: basic
-      url: https://opensource.google.com/
-
-    - name: EdX
-      style: basic
-      url: https://edx.org/
-
-    - name: 学堂在线
-      style: basic
-      url: https://next.xuetangx.com/
-
-    - name: 优达学城
-      style: basic
-      url: https://cn.udacity.com/
-
-    - name: 云英语
+    - name: 顺德区教育局
       style: black
-      url: https://www.y-english.org/
+      url: http://www.shunde.gov.cn/jyj/
+
+    - name: 顺德区教育信息中心首页
+      style: black
+      url: http://www.sdedu.net/
+
+    - name: 中国教师资格网
+      style: basic
+      url: http://www.jszg.edu.cn/portal/home/index
+      
+    - name: 中小学教师资格考试
+      style: basic
+      url: http://ntce.neea.edu.cn/
+
+    - name: 全国计算机考试
+      style: basic
+      url: http://ncre.neea.edu.cn/
+
+    - name: 广东省教育考试院
+      style: basic
+      url: https://eea.gd.gov.cn/
+
+    - name: 广东省自学考试管理系统
+      style: basic
+      url: https://www.eeagd.edu.cn/zkselfec/login/login.jsp
+
+    - name: 广东省专业技术人员继续教育
+      style: basic
+      url: http://gdrst.gdhrss.gov.cn/publicfiles//business/htmlfiles/jxjyglxt/index.html
+
+    - name: 广东省教育双融双创智慧共享社区教师培训平台
+      style: basic
+      url: https://pc-srsc.gdedu.gov.cn/me/index/180120
+
+    - name: 广东省省本级专业技术网上申报系统
+      style: basic
+      url: http://www.gdhrss.gov.cn/gdweb/ggfw/web/pub/ggfwzyjs.do
+
+    - name: 广东政务服务网
+      style: basic
+      url: http://www.gdzwfw.gov.cn/
+
+    - name: 广东省省本级专业技术网上申报系统
+      style: basic
+      url: http://www.gdhrss.gov.cn/gdweb/ggfw/web/pub/ggfwzyjs.do?tdsourcetag=s_pcqq_aiomsg
+
+    - name: 广东省人力资源和社会保障厅网上服务平台
+      style: basic
+      url: https://ggfw.gdhrss.gov.cn/gdggfw/index.shtml
+
+    - name: “开放广东”政府数据统一开放平台
+      style: basic
+      url: http://gddata.gd.gov.cn/
+
+    - name: 广东省人力资源和社会保障厅网上服务平台
+      style: basic
+      url: https://ggfw.gdhrss.gov.cn/gdggfw/index.shtml
 
   - name: 娱乐
     links:
