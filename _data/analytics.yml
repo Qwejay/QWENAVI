@@ -2,7 +2,7 @@ google:
   id: G-HGV9EV5L7S
 
 matomo:
-  url: https://a.qwejay.cn
+  url: http://qwejay.cn:8888
   domains:
   - "*.qwejay.cn"
   site_id: 1
