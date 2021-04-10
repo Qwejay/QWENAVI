@@ -2,9 +2,11 @@
 
 // GitHub
 function updateGitHub(repository) {
-    $('#github-watch img').attr('src', `https://img.shields.io/github/watchers/${repository}.svg?style=social&label=Watch`);
-    $('#github-star img').attr('src', `https://img.shields.io/github/stars/${repository}.svg?style=social&label=Star`);
-    $('#github-fork img').attr('src', `https://img.shields.io/github/forks/${repository}.svg?style=social&label=Fork`);
+//    $('#github-watch img').attr('src', `https://img.shields.io/github/watchers/${repository}.svg?style=social&label=Watch`);
+//    $('#github-star img').attr('src', `https://img.shields.io/github/stars/${repository}.svg?style=social&label=Star`);
+//    $('#github-fork img').attr('src', `https://img.shields.io/github/forks/${repository}.svg?style=social&label=Fork`);
+      $('#github-fork img').attr('src', `https://img.shields.io/badge/dynamic/json?label=%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D1916069587&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true`);
+
 };
 var repository = $('meta[name=repository]').attr('content');
 updateGitHub(repository);
@@ -18,7 +20,7 @@ setInterval(function () {
 dayjs.locale('zh-cn');
 dayjs.extend(window.dayjs_plugin_relativeTime);
 function updateVersion(timestamp) {
-    $('#version img').attr('src', `https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-${encodeURIComponent(dayjs(timestamp).fromNow())}-brightgreen.svg`);
+    $('#version img').attr('src', ``);
 };
 var updateAt = $('meta[name=updated_at]').attr('content');
 updateVersion(updateAt);
