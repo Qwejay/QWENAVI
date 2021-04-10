@@ -18,7 +18,7 @@ function updateDropdown() {
 function setCookie(name, value) {
     Cookies.set(name, value, {
         expires: 365,
-        domain: '.byr-navi.com',
+        domain: '.qwejay.cn',
         secure: true
     });
 };
