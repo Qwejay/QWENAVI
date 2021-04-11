@@ -131,7 +131,7 @@
     - name: 彩云天气
       icon: cloud olive
       style: basic
-      url: http://caiyunapp.com/map
+      url: http://caiyunapp.com/map/
 
     - name: 天眼查
       style: basic
@@ -198,7 +198,7 @@
 
     - name: ilovepdf
       style: basic
-      url: https://www.ilovepdf.com/zh-cn
+      url: https://www.ilovepdf.com/zh-cn/
 
     - name: pdf24
       style: basic
@@ -208,27 +208,27 @@
       style: basic
       url: https://www.iconfont.cn/
  
- - name: waifu2x
+    - name: waifu2x
       style: basic
       url: http://waifu2x.udp.jp/
       
-  - name: imglarger
+    - name: imglarger
       style: basic
-      url: https://imglarger.com/Zh/Index
+      url: https://imglarger.com/Zh/Index/
       
-  - name: 字体图片
+    - name: 字体图片
       style: basic
       url: https://wordart.com/
       
-  - name: convertio
+    - name: convertio
       style: basic
       url: https://convertio.co/zh/
 
-  - name: office-converter
+    - name: office-converter
       style: basic
       url: https://cn.office-converter.com/
       
-  - name: vectormagic
+    - name: vectormagic
       style: basic
       url: https://vectormagic.com/
                                              
