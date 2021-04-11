@@ -402,19 +402,7 @@
       style: basic
       url: http://jwc.bupt.edu.cn/
 
-    - name: 北邮人论坛
-      style: basic
-      url: https://bbs.byr.cn/
-
-    - name: 北邮人BT
-      style: blue
-      url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
-
-    - name: 北邮IPTV
-      style: basic
-      url: http://tv.byr.cn/
-
-    - name: 信息门户
+     - name: 信息门户
       style: basic
       url: http://my.bupt.edu.cn/
 
