@@ -243,7 +243,7 @@
       style: black
       url: http://www.shunde.gov.cn/jyj/
 
-    - name: 顺德区教育信息中心首页
+    - name: 顺德教育信息中心
       style: black
       url: http://www.sdedu.net/
 
@@ -271,11 +271,11 @@
       style: basic
       url: http://gdrst.gdhrss.gov.cn/publicfiles//business/htmlfiles/jxjyglxt/index.html
 
-    - name: 广东省教育双融双创智慧共享社区教师培训平台
+    - name: 广东省教育双融双创培训平台
       style: basic
       url: https://pc-srsc.gdedu.gov.cn/me/index/180120
 
-    - name: 广东省省本级专业技术网上申报系统
+    - name: 广东省专业技术网上申报
       style: basic
       url: http://www.gdhrss.gov.cn/gdweb/ggfw/web/pub/ggfwzyjs.do
 
@@ -283,11 +283,7 @@
       style: basic
       url: http://www.gdzwfw.gov.cn/
 
-    - name: 广东省省本级专业技术网上申报系统
-      style: basic
-      url: http://www.gdhrss.gov.cn/gdweb/ggfw/web/pub/ggfwzyjs.do?tdsourcetag=s_pcqq_aiomsg
-
-    - name: 广东省人力资源和社会保障厅网上服务平台
+    - name: 广东省人力资源和社会保障厅
       style: basic
       url: https://ggfw.gdhrss.gov.cn/gdggfw/index.shtml
 
@@ -295,7 +291,7 @@
       style: basic
       url: http://gddata.gd.gov.cn/
 
-    - name: 广东省人力资源和社会保障厅网上服务平台
+    - name: 广东省人力资源和社会保障厅
       style: basic
       url: https://ggfw.gdhrss.gov.cn/gdggfw/index.shtml
 
