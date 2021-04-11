@@ -73,6 +73,11 @@
 
   - name: 工具
     links:
+
+    - name: GitHub
+      icon: github black
+      style: basic
+      url: https://github.com/
     - name: '12306'
       icon: train red
       style: basic
@@ -136,7 +141,7 @@
       style: basic
       url: https://www.gaoding.com/
 
-  - name: 社交
+  - name: 社交·设计
     links:
     - name: 微博
       icon: weibo red
@@ -168,11 +173,6 @@
       style: basic
       url: https://www.facebook.com/
 
-    - name: Google+
-      icon: google plus g red
-      style: basic
-      url: https://plus.google.com/
-
     - name: Tumblr
       icon: tumblr blue
       style: basic
@@ -183,18 +183,58 @@
       style: basic
       url: https://www.instagram.com/
 
-    - name: GitHub
-      icon: github black
-      style: basic
-      url: https://github.com/
-
     - name: LinkedIn
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
 
+    - name: 觅知网
+      style: basic
+      url: https://www.51miz.com/
+
+    - name: 千图网
+      style: basic
+      url: https://www.58pic.com/
+
+    - name: ilovepdf
+      style: basic
+      url: https://www.ilovepdf.com/zh-cn
+
+    - name: pdf24
+      style: basic
+      url: https://tools.pdf24.org/zh/
+      
+    - name: Icofont+
+      style: basic
+      url: https://www.iconfont.cn/
+ 
+ - name: waifu2x
+      style: basic
+      url: http://waifu2x.udp.jp/
+      
+  - name: imglarger
+      style: basic
+      url: https://imglarger.com/Zh/Index
+      
+  - name: 字体图片
+      style: basic
+      url: https://wordart.com/
+      
+  - name: convertio
+      style: basic
+      url: https://convertio.co/zh/
+
+  - name: office-converter
+      style: basic
+      url: https://cn.office-converter.com/
+      
+  - name: vectormagic
+      style: basic
+      url: https://vectormagic.com/
+                                             
   - name: 教育
     links:
+    
     - name: 佛山市教育局
       style: basic
       url: http://edu.foshan.gov.cn/
