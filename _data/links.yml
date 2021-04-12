@@ -1,6 +1,14 @@
 - categories:
   - name: 购物
     links:
+    - name: 吾爱破解
+      style: red
+      url: https://www.52pojie.cn/
+
+    - name: 印象笔记
+      style: green
+      url: https://www.yinxiang.com/
+
     - name: 淘宝
       style: orange
       url: https://www.taobao.com/
@@ -21,7 +29,7 @@
     - name: Apple
       style: basic
       icon: apple grey
-      url: https://www.apple.com/
+      url: https://www.apple.com.cn/
 
     - name: 一号店
       style: basic
@@ -31,14 +39,6 @@
       style: basic
       url: http://www.dangdang.com/
 
-    # - name: 严选
-    #   style: basic
-    #   url: http://you.163.com/
-
-    - name: UNIQLO
-      style: red
-      url: http://www.uniqlo.cn/
-
     - name: MUJI
       style: basic
       url: http://www.muji.com.cn/
@@ -47,17 +47,9 @@
       style: yellow
       url: https://www.ikea.cn/
 
-    - name: Decathlon
+    - name: SAMSUNG
       style: blue
-      url: https://www.decathlon.com.cn/
-
-    - name: 造作
-      style: basic
-      url: https://zaozuo.com/
-
-    - name: 锤子
-      style: basic
-      url: http://www.smartisan.com/
+      url: https://www.samsung.com/cn/
 
     - name: 大疆
       style: black
@@ -78,6 +70,7 @@
       icon: github black
       style: basic
       url: https://github.com/
+
     - name: '12306'
       icon: train red
       style: basic
@@ -93,10 +86,10 @@
       style: basic
       url: http://www.dianping.com/
 
-    # - name: 网易邮箱
-    #   icon: envelope red
-    #   style: basic
-    #   url: http://email.163.com/
+    - name: 网易邮箱
+      icon: envelope red
+      style: basic
+      url: http://email.163.com/
 
     - name: QQ邮箱
       icon: qq black
@@ -116,30 +109,47 @@
     - name: 谷歌翻译
       icon: language blue
       style: basic
-      url: https://translate.google.com/
+      url: https://translate.google.cn/
 
     - name: 百度翻译
       icon: paw blue
       style: basic
       url: https://fanyi.baidu.com/
 
+    - name: 谷歌翻译
+      icon: blue
+      style: basic
+      url: https://translate.google.cn/
+
+    - name: 有道翻译
+      icon: red
+      style: basic
+      url: https://fanyi.youdao.com/
+      
     - name: 维基百科
       icon: wikipedia w black
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: 彩云天气
-      icon: cloud olive
+    - name: 天眼查
       style: basic
-      url: http://caiyunapp.com/map/
+      url: https://www.tianyancha.com/
+
+    - name: IPV6测试
+      style: basic
+      url: http://www.test-ipv6.com/
+
+    - name: IP查询
+      style: basic
+      url: https://www.ipaddress.com/
 
     - name: 天眼查
       style: basic
       url: https://www.tianyancha.com/
 
-    - name: 稿定设计
+    - name: 天眼查
       style: basic
-      url: https://www.gaoding.com/
+      url: https://www.tianyancha.com/
 
   - name: 社交·设计
     links:
@@ -148,19 +158,19 @@
       style: basic
       url: https://weibo.com/
 
-    - name: 微信网页版
+    - name: 微信
       icon: weixin green
-      style: basic
+      style: green
       url: https://wx.qq.com/
 
-    - name: 百度贴吧
+    - name: 贴吧
       icon: paw blue
       style: basic
       url: https://tieba.baidu.com/
 
     - name: 知乎
       icon: zhihu blue
-      style: basic
+      style: blue
       url: https://www.zhihu.com/
 
     - name: Quora
@@ -189,13 +199,37 @@
       url: https://www.linkedin.com/
 
     - name: 觅知网
-      style: basic
+      style: red
       url: https://www.51miz.com/
 
     - name: 千图网
-      style: basic
+      style: green
       url: https://www.58pic.com/
+      
+    - name: 字体图片
+      style: basic
+      url: https://wordart.com/
 
+    - name: 稿定设计
+      style: basic
+      url: https://www.gaoding.com/
+
+    - name: 90设计
+      style: basic
+      url: http://90sheji.com/
+ 
+    - name: 包图网
+      style: basic
+      url: https://ibaotu.com/
+      
+    - name: 昵图网
+      style: basic
+      url: http://www.nipic.com/
+
+    - name: 稿定设计
+      style: basic
+      url: https://www.gaoding.com/
+     
     - name: ilovepdf
       style: basic
       url: https://www.ilovepdf.com/zh-cn/
@@ -216,10 +250,6 @@
       style: basic
       url: https://imglarger.com/Zh/Index/
       
-    - name: 字体图片
-      style: basic
-      url: https://wordart.com/
-      
     - name: convertio
       style: basic
       url: https://convertio.co/zh/
@@ -236,7 +266,7 @@
     links:
     
     - name: 佛山市教育局
-      style: basic
+      style: black
       url: http://edu.foshan.gov.cn/
 
     - name: 顺德区教育局
@@ -244,14 +274,15 @@
       url: http://www.shunde.gov.cn/jyj/
 
     - name: 顺德教育信息中心
-      style: black
+      style: basic
       url: http://www.sdedu.net/
 
-    - name: 中国教师资格网
+    - name: 教师资格网
       style: basic
+      style: orange
       url: http://www.jszg.edu.cn/portal/home/index
       
-    - name: 中小学教师资格考试
+    - name: 教师资格考试
       style: basic
       url: http://ntce.neea.edu.cn/
 
@@ -259,23 +290,24 @@
       style: basic
       url: http://ncre.neea.edu.cn/
 
-    - name: 广东省教育考试院
+    - name: 广东教育考试院
       style: basic
       url: https://eea.gd.gov.cn/
 
-    - name: 广东省自学考试管理系统
+    - name: 广东自学考试系统
       style: basic
       url: https://www.eeagd.edu.cn/zkselfec/login/login.jsp
 
-    - name: 广东省专业技术人员继续教育
+    - name: 广东专业技术继续教育
       style: basic
+      style: orange
       url: http://gdrst.gdhrss.gov.cn/publicfiles//business/htmlfiles/jxjyglxt/index.html
 
-    - name: 广东省教育双融双创培训平台
+    - name: 广东教育双融双创
       style: basic
       url: https://pc-srsc.gdedu.gov.cn/me/index/180120
 
-    - name: 广东省专业技术网上申报
+    - name: 广东专业技术申报
       style: basic
       url: http://www.gdhrss.gov.cn/gdweb/ggfw/web/pub/ggfwzyjs.do
 
@@ -283,15 +315,15 @@
       style: basic
       url: http://www.gdzwfw.gov.cn/
 
-    - name: 广东省人力资源和社会保障厅
+    - name: 广东人力资源和社会保障厅
       style: basic
       url: https://ggfw.gdhrss.gov.cn/gdggfw/index.shtml
 
-    - name: “开放广东”政府数据统一开放平台
+    - name: 政府数据统一开放平台
       style: basic
       url: http://gddata.gd.gov.cn/
 
-    - name: 广东省人力资源和社会保障厅
+    - name: 广东人力资源和社会保障厅
       style: basic
       url: https://ggfw.gdhrss.gov.cn/gdggfw/index.shtml
 
@@ -330,9 +362,13 @@
       style: orange
       url: https://www.acfun.cn/
 
-    - name: 腾讯动漫
-      style: basic
-      url: https://ac.qq.com/
+    - name: QQ音乐
+      style: green
+      url: https://y.qq.com/
+
+    - name: 网易云音乐
+      style: red
+      url: https://music.163.com/
 
     - name: 虾米
       style: orange
@@ -343,39 +379,15 @@
       style: basic
       url: https://movie.douban.com/
 
-    - name: FIX
-      style: yellow
-      url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
-
-    - name: 弯弯
+    - name: 酷狗
       style: blue
-      url: http://wanwansub.com/node/139
+      url: http://www.kugou.com/
 
-    - name: 人人
-      style: blue
-      url: http://www.yyetss.com/
-
-    # - name: 电波
-    #   style: basic
-    #   url: http://dbfansub.com/
-
-    - name: 猪猪
-      style: purple
-      url: http://www.zzrbl.com/
-
-    - name: TNH
+    - name: 虎牙
       style: basic
-      url: https://www.tokyonothot.com/
+      url: https://www.huya.com/
 
-    - name: 追新番
-      style: yellow
-      url: http://www.zhuixinfan.com/
-
-    - name: 幻樱
-      style: pink
-      url: http://www.hysub.net/
-
-    - name: 斗鱼
+     - name: 斗鱼
       style: orange
       url: https://douyu.com/
 
