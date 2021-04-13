@@ -1,7 +1,0 @@
-matomo:
-  url: http://qwejay.cn:8888
-  domains:
-  - "*.qwejay.cn"
-  site_id: 1
-  token: 7e76de8b4e3ba12e0f7b4db217bf2365
-
