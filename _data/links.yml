@@ -264,7 +264,6 @@
                                              
   - name: 教育
     links:
-    
     - name: 佛山市教育局
       style: black
       url: http://edu.foshan.gov.cn/
@@ -387,7 +386,7 @@
       style: basic
       url: https://www.huya.com/
 
-     - name: 斗鱼
+    - name: 斗鱼
       style: orange
       url: https://douyu.com/
 
