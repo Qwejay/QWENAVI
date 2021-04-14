@@ -65,7 +65,10 @@
 
   - name: 工具
     links:
-    
+     - name: Vercel
+      style: basic
+      url:  https://vercel.com/  
+ 
     - name: 程序员工具
       style: basic
       url: http://tooool.org/
