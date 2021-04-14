@@ -65,6 +65,14 @@
 
   - name: 工具
     links:
+    
+    - name: 程序员工具
+      style: basic
+      url: http://tooool.org/
+
+    - name: MikuTools
+      style: basic
+      url: https://tools.miku.ac/
 
     - name: GitHub
       icon: github black
@@ -116,11 +124,6 @@
       style: basic
       url: https://fanyi.baidu.com/
 
-    - name: 谷歌翻译
-      icon: blue
-      style: basic
-      url: https://translate.google.cn/
-
     - name: 有道翻译
       icon: red
       style: basic
@@ -150,6 +153,10 @@
     - name: 天眼查
       style: basic
       url: https://www.tianyancha.com/
+
+    - name: 一个工具箱
+      style: basic
+      url: http://www.atoolbox.net/
 
   - name: 社交·设计
     links:
@@ -198,6 +205,14 @@
       style: basic
       url: https://www.linkedin.com/
 
+    - name: Bigjpg
+      style: basic
+      url: https://bigjpg.com/
+
+    - name: 简视频
+      style: basic
+      url: https://www.vlogquan.com/
+
     - name: 觅知网
       style: red
       url: https://www.51miz.com/
@@ -229,7 +244,11 @@
     - name: 稿定设计
       style: basic
       url: https://www.gaoding.com/
-     
+ 
+    - name: iconpark
+      style: basic
+      url: https://iconpark.bytedance.com/ 
+
     - name: ilovepdf
       style: basic
       url: https://www.ilovepdf.com/zh-cn/
@@ -261,7 +280,28 @@
     - name: vectormagic
       style: basic
       url: https://vectormagic.com/
-                                             
+
+    - name: ALL TO ALL
+      style: basic
+      url: https://www.alltoall.net/    
+
+     - name: Stickpng
+      style: basic
+      url: https://www.stickpng.com/
+
+     - name: Online Image Tool 
+      style: basic
+      url: https://www.onlineimagetool.com/zh/
+
+     - name: remove.bg
+      style: basic
+      url: https://www.remove.bg
+
+     - name: 100font
+      style: basic
+      url: https://www.100font.com/
+
+
   - name: 教育
     links:
     - name: 佛山市教育局
@@ -388,31 +428,31 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 北邮校园
+  - name: 网址导航
     links:
-    - name: 北邮官网
+    - name: MSDN, 我告诉你
       style: basic
-      url: http://www.bupt.edu.cn/
+      url: https://msdn.itellyou.cn/
 
-    - name: 官方导航
+    - name: 奶牛快传
       style: basic
-      url: http://dep.bupt.edu.cn/dh/
+      url: https://cowtransfer.com/
 
-    - name: 本科教务系统
+    - name: 蓝奏云
       style: basic
-      url: http://jwxt.bupt.edu.cn/
+      url: https://pc.woozooo.com/
 
-    - name: 研究生教务系统
+    - name: 百度网盘
       style: basic
-      url: http://yjxt.bupt.edu.cn/
+      url: https://pan.baidu.com/
 
-    - name: 教务处
+    - name: Wallhaven
       style: basic
-      url: http://jwc.bupt.edu.cn/
+      url: https://wallhaven.cc/
 
-    - name: 信息门户
+    - name: 秀米
       style: basic
-      url: http://my.bupt.edu.cn/
+      url: https://xiumi.us/
 
     - name: 图书馆
       style: basic
@@ -438,43 +478,56 @@
       style: basic
       url: http://buptclass.com/
 
-  - name: 校园助手
+  - name: 资源
     links:
-    - name: 空余教室查询
+     
+    - name: 蜂鸟网
+      style: teal
+      url: http://www.fengniao.com/
+     
+    - name: 36氪
+      style: teal
+      url: https://36kr.com/
+      
+    - name: Myfreemp3
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
+      url: https://my-free-mp3.cc/
 
-    - name: 辅修专业
+    - name: AnyKnew
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+      url: https://ppt.sotary.com/web/wxapp/index.html
 
-    - name: 毕业设计
+    - name: 果汁排行榜
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
+      url: http://guozhivip.com/rank/
 
-    - name: 学生校际选修
+    - name: PPT超级市场
       style: basic
-      url: http://www.xueyuanlu.cn/
+      url: https://ppt.sotary.com/
 
-    - name: 创新学分
+    - name: 正版中国
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
+      url: https://www.getitfree.cn/
 
-    - name: 课表查询
+    - name: CK电影
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
+      url: https://www.ck180.net/
 
-    - name: 考表查询
+    - name: 阳光电影
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
+      url: https://www.ygdy8.com/
 
-    - name: 出国成绩单办理
+    - name: BT电影天堂
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
+      url: http://gif-china.cc/
 
-    - name: 教学事务流程
+    - name: 电影天堂
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
+      url: https://www.dygod.net/
+
+    - name: BT天堂
+      style: basic
+      url: https://www.jsr9.com/
 
     - name: 创新实践平台
       style: basic
@@ -500,46 +553,61 @@
       style: basic
       url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
 
-  - name: 论坛相关
+  - name: 学习
     links:
-    - name: 北邮人论坛
+    - name: 全历史
       style: teal
-      url: http://bbs.byr.cn/
+      url: https://www.allhistory.com/
 
-    - name: 游客版论坛
+    - name: 超星尔雅
+      style: teal
+      url: http://erya.mooc.chaoxing.com/
+
+    - name: 网易公开课
+      style: teal
+      url: https://open.163.com/
+
+    - name: 网易云课堂
+      style: teal
+      url: https://study.163.com/
+      
+    - name: iData
       style: basic
-      url: http://bbs.cloud.icybee.cn/
+      url: https://www.cn-ki.net/
 
-    - name: 检索论坛内容
+    - name: 地图书
       style: basic
-      url: http://search.icybee.cn/
+      url: https://www.ditushu.com/
 
-    - name: 检索用户发帖
+    - name: 高德开放平台
       style: basic
-      url: http://search.lovezxp.com/
+      url: https://lbs.amap.com/
 
-    - name: 查看论坛数据
+    - name: 我要自学网
       style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
+      url: https://www.51zxw.net/
 
-    - name: 论坛APP
-      icon: app store
+    - name: 中国大学MOOC
       style: black
-      url: http://itunes.apple.com/cn/app/bei-you-ren-lun-tan-bei-you/id1115232927
+      url: https://www.icourse163.org/
 
-    - name: 论坛APP
-      icon: google play
+    - name: WikiHow
       style: black
-      url: https://github.com/dss886/BYR-BBS-APP-Release
+      url: https://zh.wikihow.com
 
-    - name: 论坛官方微博
+    - name: 慕课网
       style: basic
-      url: http://weibo.com/byrbbs
+      url: https://www.imooc.com/
 
-    - name: 论坛投票区
+    - name: 大学资源网
       style: basic
-      url: http://bbs.byr.cn/#!vote
+      url: http://www.dxzy163.com/
 
-    - name: 玩转论坛指南
+    - name: 科塔学术导航
       style: basic
-      url: http://bbs.byr.cn/#!article/Talking/5852307
+      url: https://site.sciping.com/
+
+     - name: 译学馆
+      style: basic
+      url: https://www.yxgapp.com/
+      
