@@ -4,17 +4,17 @@ repository_url: https://github.com/qwejay
 timezone: Asia/Shanghai
 lang: zh_CN
 
-title: 导航 - QWENAS
-alias_en: QWENAS
-alias_cn: 导航 - QWENAS
+title: 首页-QWENAVI
+alias_en: QWENAVI
+alias_cn: QWENAVI
 description: A Navigation Website
-keywords: 导航, QWEJAY
+keywords: QWENAVI,导航, QWEJAY
 url: https://i.qwejay.cn
 established_at: "2021-04-10T00:00+08:00"
 
 author: QwejayHuang
 author_url: https://i.qwejay.cn/
-organization: QWE
+organization: QWENAVI
 organization_url: https://i.qwejay.cn/
 contact: contact[at]i.qwejay[dot]cn
 
