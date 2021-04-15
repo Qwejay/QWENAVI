@@ -5,6 +5,7 @@ timezone: Asia/Shanghai
 lang: zh_CN
 
 title: 首页-QWENAVI
+index_title: QWENAVI导航
 alias_en: QWENAVI
 alias_cn: QWENAVI
 description: A Navigation Website
