@@ -1,6 +1,23 @@
 - categories:
-  - name: 购物
+  - name: 新闻·购物
     links:
+
+    - name: IT之家
+      style: red
+      url: https://www.ithome.com/
+
+    - name: CnBeta
+      style: red
+      url: https://www.cnbeta.com/
+
+    - name: 蜂鸟网
+      style: teal
+      url: http://www.fengniao.com/
+     
+    - name: 36氪
+      style: teal
+      url: https://36kr.com/
+
     - name: 吾爱破解
       style: red
       url: https://www.52pojie.cn/
@@ -459,14 +476,6 @@
   - name: 资源
     links:
      
-    - name: 蜂鸟网
-      style: teal
-      url: http://www.fengniao.com/
-     
-    - name: 36氪
-      style: teal
-      url: https://36kr.com/
-      
     - name: Myfreemp3
       style: basic
       url: https://my-free-mp3.cc/
