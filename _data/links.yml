@@ -65,7 +65,7 @@
 
   - name: 工具
     links:
-     - name: Vercel
+    - name: Vercel
       style: basic
       url:  https://vercel.com/  
  
@@ -288,19 +288,19 @@
       style: basic
       url: https://www.alltoall.net/    
 
-     - name: Stickpng
+    - name: Stickpng
       style: basic
       url: https://www.stickpng.com/
 
-     - name: Online Image Tool 
+    - name: Online Image Tool 
       style: basic
       url: https://www.onlineimagetool.com/zh/
 
-     - name: remove.bg
+    - name: remove.bg
       style: basic
       url: https://www.remove.bg
 
-     - name: 100font
+    - name: 100font
       style: basic
       url: https://www.100font.com/
 
@@ -561,7 +561,7 @@
       style: basic
       url: https://site.sciping.com/
 
-     - name: 译学馆
+    - name: 译学馆
       style: basic
       url: https://www.yxgapp.com/
       
