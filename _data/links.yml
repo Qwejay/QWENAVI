@@ -170,10 +170,6 @@
       style: basic
       url: https://www.tianyancha.com/
 
-    - name: 天眼查
-      style: basic
-      url: https://www.tianyancha.com/
-
     - name: 一个工具箱
       style: basic
       url: http://www.atoolbox.net/
