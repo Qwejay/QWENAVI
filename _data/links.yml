@@ -82,6 +82,15 @@
 
   - name: 工具
     links:
+    - name: BOCE测速
+      style: basic
+      url:  https://www.boce.com/http/
+
+    - name: Cloudflare
+      style: basic
+      url:  https://www.cloudflare.com/zh-cn/
+
+      
     - name: Vercel
       style: basic
       url:  https://vercel.com/  
