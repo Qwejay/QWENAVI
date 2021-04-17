@@ -43,9 +43,52 @@ var _hmt = _hmt || [];
         {{ content }}
         {% include footer.html %}
     </div>
-    <div class="const">
+    <div id="player1"></div>
+        <p></p>
+        <button onclick="ap1.play()">ap.play()</button>
+        <button onclick="ap1.seek(100)">ap.seek(100)</button>
+        <button onclick="ap1.pause()">ap.pause()</button>
+        <button onclick="ap1.toggle()">ap.toggle()</button>
+        <button onclick="ap1.volume(0.1)">ap.volume(0.1)</button>
+        <button onclick="ap1.addAudio([
+            {
+                name: 'あっちゅ～ま青春!',
+                artist: '七森中☆ごらく部',
+                url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yuruyuri.mp3',
+                cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yuruyuri.jpg'
+            },
+            {
+                name: 'secret base~君がくれたもの~',
+                artist: '茅野愛衣',
+                url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/secretbase.mp3',
+                cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/secretbase.jpg'
+            },
+            {
+                name: '回レ！雪月花',
+                artist: '小倉唯',
+                url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/snowmoonflowers.mp3',
+                cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/snowmoonflowers.jpg'
+            }
+        ])">ap.addAudio(...)</button>
+        <button onclick="ap1.destroy()">ap.destroy()</button>
+        <h3>With playlist</h3>
+        <div id="player4" class="aplayer"></div>
+        <p></p>
+        <button onclick="ap4.switchAudio(2)">ap.switchAudio(2)</button>
+        <h3>With lyrics</h3>
+        <div id="player3" class="aplayer"></div>
+        <h3>With playlist and lyrics</h3>
+        <div id="player5" class="aplayer"></div>
+        <h3>Narrow</h3>
+        <div id="player2" class="aplayer"></div>
+        <h3>HLS</h3>
+        <div id="player6" class="aplayer"></div>
+        <div id="player7" class="aplayer"></div>
+        <div id="player8" class="aplayer"></div>
+	<div class="const"></div>
+	<div id="player1"></div>
+	<div id="const">
     </div>
-	
 	<script type="text/javascript" src="//unpkg.zhimg.com/jquery/dist/jquery.min.js"></script>
     <script type="text/javascript" src="//unpkg.zhimg.com/fomantic-ui/dist/semantic.min.js"></script>
     <script type="text/javascript" src="{{ '/assets/js/common.js' | relative_url }}"></script>
