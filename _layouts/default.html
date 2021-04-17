@@ -43,7 +43,10 @@ var _hmt = _hmt || [];
         {{ content }}
         {% include footer.html %}
     </div>
-    <script type="text/javascript" src="//unpkg.zhimg.com/jquery/dist/jquery.min.js"></script>
+    <div class="const">
+    </div>
+	
+	<script type="text/javascript" src="//unpkg.zhimg.com/jquery/dist/jquery.min.js"></script>
     <script type="text/javascript" src="//unpkg.zhimg.com/fomantic-ui/dist/semantic.min.js"></script>
     <script type="text/javascript" src="{{ '/assets/js/common.js' | relative_url }}"></script>
     {% if page.active_key == 'home' %}<script type="text/javascript" src="//unpkg.zhimg.com/dayjs/dayjs.min.js"></script>
