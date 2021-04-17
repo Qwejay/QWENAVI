@@ -55,10 +55,6 @@ var _hmt = _hmt || [];
     <script type="text/javascript" src="//unpkg.zhimg.com/echarts@4.9.0/map/js/world.js"></script>
     {% if page.active_key == 'search' %}<script type="text/javascript" src="//unpkg.zhimg.com/js-url/url.min.js"></script>
     <script type="text/javascript" src="{{ '/assets/js/search.js' | relative_url }}"></script>{% endif %}
-<!-- 在正文开头添加网易云音乐插件 -->
-  {% if page.music-id %}
-    {% include cloud-music.html %}
-  {% endif %} 
-  {{ content }}
+
 </body>
 </html>
