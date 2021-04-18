@@ -1,1 +1,1 @@
-POWERed BY BYR-Navi
+POWERED BY BYR-Navi
