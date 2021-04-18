@@ -6,6 +6,7 @@ function updateGitHub(repository) {
       $('#github img').attr('src', `https://badgen.net/badge/icon/github?icon=github&label`);
       $('#twitter img').attr('src', `https://badgen.net/badge/icon/twitter?icon=twitter&label`);
       $('#douyin img').attr('src', `https://img.shields.io/badge/%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D-1104-black`);
+      $('#license img').attr('src', `https://badgen.net/github/license/micromatch/micromatch`);
 
 };
 var repository = $('meta[name=repository]').attr('content');
