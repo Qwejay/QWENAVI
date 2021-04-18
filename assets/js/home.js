@@ -2,10 +2,10 @@
 
 // GitHub
 function updateGitHub(repository) {
-      $('#weibo img').attr('src', `https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Shanghai`);
+      $('#douyin img').attr('src', `https://img.shields.io/badge/%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D-1104-black`);
       $('#github img').attr('src', `https://badgen.net/badge/icon/github?icon=github&label`);
       $('#twitter img').attr('src', `https://badgen.net/badge/icon/twitter?icon=twitter&label`);
-      $('#douyin img').attr('src', `https://img.shields.io/badge/%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D-1104-black`);
+      $('#date img').attr('src', `https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Shanghai`);
       $('#license img').attr('src', `https://badgen.net/github/license/micromatch/micromatch`);
 
 };
