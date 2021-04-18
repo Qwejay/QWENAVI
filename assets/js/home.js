@@ -2,9 +2,9 @@
 
 // GitHub
 function updateGitHub(repository) {
-      $('#weibo img').attr('src', `https://img.shields.io/badge/dynamic/json?label=%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D1916069587&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true`);
-      $('#github img').attr('src', `https://img.shields.io/badge/dynamic/json?label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DQwejay&labelColor=282c34&color=181717&logo=github&longCache=true`);
-      $('#zhihu img').attr('src', `https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dqwejayhuang&longCache=true`);
+      $('#weibo img').attr('src', `https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Shanghai`);
+      $('#github img').attr('src', `https://badgen.net/badge/icon/github?icon=github&label`);
+      $('#twitter img').attr('src', `https://badgen.net/badge/icon/twitter?icon=twitter&label`);
       $('#douyin img').attr('src', `https://img.shields.io/badge/%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D-1104-black`);
 
 };
