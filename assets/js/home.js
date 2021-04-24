@@ -23,7 +23,7 @@ function updateDropdown() {
 function setCookie(name, value) {
     Cookies.set(name, value, {
         expires: 365,
-        domain: '.qwejay.cn',
+        domain: '.i.qwejay.cn',
         secure: true
     });
 };
