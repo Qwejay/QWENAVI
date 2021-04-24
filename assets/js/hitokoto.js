@@ -2,7 +2,7 @@
 
 $.getJSON('https://v1.hitokoto.cn', function (data) {
     $('#hitokoto').attr({
-        'a': 'hitokoto.cn?c=k&c=j',
+        'a': 'hitokoto.cn?c=k',
         'target': '_blank'
     }).append(data.hitokoto).append(
         $('<div>').addClass('detail').text(data.from)

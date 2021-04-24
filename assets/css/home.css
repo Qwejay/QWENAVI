@@ -49,7 +49,7 @@
     margin-bottom: 0.5em;
 }
 
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 767px) {
     .ui.masthead .ui.text.container {
         margin-top: 2rem;
         margin-bottom: 2rem;
