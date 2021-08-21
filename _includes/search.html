@@ -12,7 +12,17 @@
         <select id="search-services" class="ui compact selection dropdown">
             {% for item in site.data.search_services %}<option id="{{ item.id }}" value="{{ item.id }}" data-url="{{ item.url }}" {% if item.transcode %}data-transcode="true" data-transcode-from="{{ item.transcode.from }}" data-transcode-to="{{ item.transcode.to }}"{% else %}data-transcode="false"{% endif %}>{{ item.name }}</option>{% endfor %}
         </select>
-        <div id="search-button" class="ui black icon button"><i class="search icon"></i></div>
+
+        <div id="container">
+            <div id="wrapper">
+                <div id="logo">  <img src="必应.png" alt="tupian" id="logo"> </div>
+                <form action="https://www.baidu.com/s" target="_self" method="get">
+                    <input type="text" id="search-input" name="wd" placeholder="请输入要搜索的内容：" autofocus="">
+                    <input type="submit" id="search-button" value="">
+                </form>
+            </div>
+        </div> 
+
     </div>
     <div id="badges">
         <a id="douyin" href="https://creator.douyin.com/" target="_blank"><img src="" alt=""></a>
