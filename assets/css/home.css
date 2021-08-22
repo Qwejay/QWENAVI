@@ -2,6 +2,10 @@
 * {
     box-sizing: border-box;
 }
+#container {
+    height: 500px;
+    margin: 0 auto;
+}
 div.search {
     padding: 30px 0;
 }
