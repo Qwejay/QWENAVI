@@ -35,22 +35,22 @@ button {
 }
 
 /*搜索框6
-/*.bar {background: #F9F0DA;}*/
-.bar input {
+/*.bar6 {background: #F9F0DA;}*/
+.bar6 input {
     border: 2px solid #5771EC;
     border-radius: 10px;
     background: transparent;
     top: 0;
     right: 0;
 }
-.bar button {
+.bar6 button {
     background: #5771EC;
     border-radius: 0 10px 10px 0;
     width: 100px;
     top: 0;
     right: 0;
 }
-.bar button:before {
+.bar6 button:before {
     content: "百度搜索";
     font-size: 16px;
     color: #ffffff;
