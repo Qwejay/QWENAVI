@@ -516,6 +516,10 @@
     - name: BT天堂
       style: basic
       url: https://www.jsr9.com/
+      
+    - name: 悠悠MP4
+      style: basic
+      url: https://www.uump4.net/
 
   - name: 学习
     links:
