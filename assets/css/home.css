@@ -11,10 +11,10 @@ div.search {
 }
 
 form {
-    background: #ffffff; /*框背景*/
-    border-radius: 10px;   /*框倒圆角*/
+    background: #ffffff; /*背景*/
+    border-radius: 10px;   /*倒圆角*/
     position: relative;
-    width: 600px;
+    width: 800px;          /*长度*/
     margin: 0 auto;
 }
 
