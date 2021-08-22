@@ -4,7 +4,7 @@
         }
         #container {
             width: 500px;
-            height: 820px;
+            height: 1820px;
             margin: 0 auto;
         }
         div.search {padding: 30px 0;}
@@ -36,14 +36,14 @@
         /*搜索框6
         /*.bar6 {background: #F9F0DA;}*/
         .bar6 input {
-            border: 2px solid #d11282;
+            border: 2px solid #1225d1;
             border-radius: 5px;
             background: transparent;
             top: 0;
             right: 0;
         }
         .bar6 button {
-            background: #d11282;
+            background: #1225d1;
             border-radius: 0 5px 5px 0;
             width: 60px;
             top: 0;
@@ -51,6 +51,6 @@
         }
         .bar6 button:before {
             content: "搜索";
-            font-size: 13px;
-            color: #F9F0DA;
+            font-size: 16px;
+            color: #ffffff;
         }
