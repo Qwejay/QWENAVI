@@ -4,14 +4,14 @@
         }
         #container {
             width: 500px;
-            height: 1820px;
+            height: 820px;
             margin: 0 auto;
         }
         div.search {padding: 30px 0;}
 
         form {
             position: relative;
-            width: 300px;
+            width: 900px;
             margin: 0 auto;
         }
 
@@ -36,14 +36,14 @@
         /*搜索框6
         /*.bar6 {background: #F9F0DA;}*/
         .bar6 input {
-            border: 2px solid #1225d1;
+            border: 2px solid #5771EC;
             border-radius: 5px;
             background: transparent;
             top: 0;
             right: 0;
         }
         .bar6 button {
-            background: #1225d1;
+            background: #5771EC;
             border-radius: 0 5px 5px 0;
             width: 60px;
             top: 0;
