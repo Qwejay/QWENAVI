@@ -1,14 +1,5 @@
 // home.js
 
-// GitHub
-function updateGitHub(repository) {
-
-
-
-};
-var repository = $('meta[name=repository]').attr('content');
-updateGitHub(repository);
-
 // 搜索
 $('#search-services').dropdown();
 
