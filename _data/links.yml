@@ -179,53 +179,8 @@
       style: basic
       url: http://www.atoolbox.net/
 
-  - name: 社交·设计
+  - name: 设计·工具
     links:
-    - name: 微博
-      icon: weibo red
-      style: basic
-      url: https://weibo.com/
-
-    - name: 微信
-      icon: weixin green
-      style: basic
-      url: https://wx.qq.com/
-
-    - name: 贴吧
-      icon: paw blue
-      style: basic
-      url: https://tieba.baidu.com/
-
-    - name: 知乎
-      icon: zhihu blue
-      style: basic
-      url: https://www.zhihu.com/
-
-    - name: Quora
-      icon: quora red
-      style: basic
-      url: https://www.quora.com/
-
-    - name: Facebook
-      icon: facebook f blue
-      style: basic
-      url: https://www.facebook.com/
-
-    - name: Tumblr
-      icon: tumblr blue
-      style: basic
-      url: https://www.tumblr.com/
-
-    - name: Instagram
-      icon: instagram pink
-      style: basic
-      url: https://www.instagram.com/
-
-    - name: LinkedIn
-      icon: linkedin blue
-      style: basic
-      url: https://www.linkedin.com/
-
     - name: Bigjpg
       style: basic
       url: https://bigjpg.com/
@@ -322,8 +277,11 @@
       style: basic
       url: https://www.100font.com/
 
+    - name: PearOCR
+      style: basic
+      url: https://pearocr.com/
 
-  - name: 教育
+  - name: 教育·咨询
     links:
     - name: 佛山市教育局
       style: black
@@ -387,8 +345,53 @@
       style: basic
       url: https://ggfw.gdhrss.gov.cn/gdggfw/index.shtml
 
-  - name: 娱乐
+  - name: 社交·娱乐
     links:
+        - name: 微博
+      icon: weibo red
+      style: basic
+      url: https://weibo.com/
+
+    - name: 微信
+      icon: weixin green
+      style: basic
+      url: https://wx.qq.com/
+
+    - name: 贴吧
+      icon: paw blue
+      style: basic
+      url: https://tieba.baidu.com/
+
+    - name: 知乎
+      icon: zhihu blue
+      style: basic
+      url: https://www.zhihu.com/
+
+    - name: Quora
+      icon: quora red
+      style: basic
+      url: https://www.quora.com/
+
+    - name: Facebook
+      icon: facebook f blue
+      style: basic
+      url: https://www.facebook.com/
+
+    - name: Tumblr
+      icon: tumblr blue
+      style: basic
+      url: https://www.tumblr.com/
+
+    - name: Instagram
+      icon: instagram pink
+      style: basic
+      url: https://www.instagram.com/
+
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: https://www.linkedin.com/
+
     - name: 哔哩哔哩
       style: pink
       url: https://bilibili.com/
