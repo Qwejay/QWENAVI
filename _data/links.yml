@@ -181,6 +181,7 @@
 
   - name: 设计·工具
     links:
+
     - name: Bigjpg
       style: basic
       url: https://bigjpg.com/
@@ -283,6 +284,7 @@
 
   - name: 教育·咨询
     links:
+
     - name: 佛山市教育局
       style: black
       url: http://edu.foshan.gov.cn/
@@ -347,7 +349,7 @@
 
   - name: 社交·娱乐
     links:
-        - name: 微博
+    - name: 微博
       icon: weibo red
       style: basic
       url: https://weibo.com/
@@ -452,6 +454,7 @@
 
 - categories:
   - name: 网址导航
+
     links:
     - name: MSDN, 我告诉你
       style: basic
