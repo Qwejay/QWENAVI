@@ -359,7 +359,7 @@
       url: https://www.allhistory.com/
 
     - name: 超星尔雅
-      style: teal
+      style: red
       url: http://erya.mooc.chaoxing.com/
 
     - name: 网易公开课
@@ -387,11 +387,11 @@
       url: https://www.icourse163.org/
 
     - name: WikiHow
-      style: black
+      style: green
       url: https://zh.wikihow.com
 
     - name: 慕课网
-      style: basic
+      style: red
       url: https://www.imooc.com/
 
     - name: 大学资源网
@@ -401,6 +401,14 @@
     - name: 译学馆
       style: basic
       url: https://www.yxgapp.com/
+
+    - name: 国家数字图书馆
+      style: red
+      url: http://www.nlc.cn/
+
+    - name: 国家科技数字图书馆
+      style: basic
+      url: https://www.nstl.gov.cn/
 
   - name: 学术·导航
     links:     
@@ -415,12 +423,28 @@
       url: https://ac.scmor.com/
 
     - name: 中国知网
-      style: basic
+      style: blue
       url: https://www.cnki.net/
 
-    - name: 中国知网镜像
+    - name: 知网镜像1
       style: basic
-      url: https://epub.cnki.net.vpn.xue338.com/kns/brief/Default_Result.aspx?code=SCDB#
+      url: https://epub.cnki.net.vpn.xue338.com/kns/brief/Default_Result.aspx?code=SCDB
+
+    - name: 知网镜像2
+      style: basic
+      url: http://www.shutong123.com/
+
+    - name: 酷问搜索
+      style: basic
+      url: http://www.koovin.com/
+
+    - name: 国家标准系统
+      style: basic
+      url: http://www.gb688.cn/bzgk/gb/index
+
+    - name: 知网空间
+      style: basic
+      url: http://search.cnki.com.cn/
 
     - name: iData知识搜索
       style: basic
@@ -466,13 +490,9 @@
       style: basic
       url: https://www.drugfuture.com/cnpat/cn_patent.asp
 
-    - name: 中国专利全文下载
+    - name: 中文期刊服务平台
       style: basic
-      url: https://www.drugfuture.com/cnpat/cn_patent.asp
-
-    - name: 中国专利全文下载
-      style: basic
-      url: https://www.drugfuture.com/cnpat/cn_patent.asp
+      url: http://qikan.cqvip.com/
 
   - name: 资源·导航
     links:
@@ -481,10 +501,9 @@
       style: basic
       url: https://my-free-mp3.cc/
 
-    - name: PPT超级市场
+    - name: 第一PPT
       style: basic
-      url: https://ppt.sotary.com/web/wxapp/index.html
-
+      url: http://www.1ppt.com/
 
     - name: PPT超级市场
       style: basic
