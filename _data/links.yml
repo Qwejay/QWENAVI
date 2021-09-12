@@ -34,10 +34,6 @@
       style: basic
       url: https://www.jd.com/
 
-    - name: 印象笔记
-      style: green
-      url: https://www.yinxiang.com/
-
     - name: Amazon
       icon: amazon yellow
       style: basic
@@ -79,6 +75,66 @@
     - name: 小米
       style: orange
       url: https://www.mi.com/
+
+    - name: 印象笔记
+      style: green
+      url: https://www.yinxiang.com/
+
+    - name: 全历史
+      style: teal
+      url: https://www.allhistory.com/
+
+    - name: 超星尔雅
+      style: teal
+      url: http://erya.mooc.chaoxing.com/
+
+    - name: 网易公开课
+      style: teal
+      url: https://open.163.com/
+
+    - name: 网易云课堂
+      style: teal
+      url: https://study.163.com/
+      
+    - name: iData
+      style: basic
+      url: https://www.cn-ki.net/
+
+    - name: 地图书
+      style: basic
+      url: https://www.ditushu.com/
+
+    - name: 高德开放平台
+      style: basic
+      url: https://lbs.amap.com/
+
+    - name: 我要自学网
+      style: basic
+      url: https://www.51zxw.net/
+
+    - name: 中国大学MOOC
+      style: black
+      url: https://www.icourse163.org/
+
+    - name: WikiHow
+      style: black
+      url: https://zh.wikihow.com
+
+    - name: 慕课网
+      style: basic
+      url: https://www.imooc.com/
+
+    - name: 大学资源网
+      style: basic
+      url: http://www.dxzy163.com/
+
+    - name: 科塔学术导航
+      style: basic
+      url: https://site.sciping.com/
+
+    - name: 译学馆
+      style: basic
+      url: https://www.yxgapp.com/
 
   - name: 工具
     links:
@@ -157,11 +213,6 @@
       icon: red
       style: basic
       url: https://fanyi.youdao.com/
-      
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
 
     - name: 天眼查
       style: basic
@@ -282,7 +333,7 @@
       style: basic
       url: https://pearocr.com/
 
-  - name: 教育·咨询
+  - name: 广东·政务
     links:
 
     - name: 佛山市教育局
@@ -346,6 +397,10 @@
     - name: 广东人力资源和社会保障厅
       style: basic
       url: https://ggfw.gdhrss.gov.cn/gdggfw/index.shtml
+
+    - name: 广东人力资源和社会保障厅
+      style: basic
+      url: https://www.chsi.com.cn/
 
   - name: 社交·娱乐
     links:
@@ -453,6 +508,54 @@
       url: https://douyu.com/
 
 - categories:
+  - name: 学术·导航
+    links:     
+
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
+
+    - name: 谷歌学术
+      style: basic
+      url: https://ac.scmor.com/
+
+    - name: 中国知网
+      style: basic
+      url: https://www.cnki.net/
+
+    - name: iData知识搜索
+      style: basic
+      url: https://www.cn-ki.net/
+
+    - name: 百度学术
+      style: basic
+      url: https://xueshu.baidu.com/
+
+    - name: 万方网
+      style: basic
+      url: https://www.wanfangdata.com.cn/
+
+    - name: 维普网
+      style: basic
+      url: http://www.cqvip.com/
+
+    - name: 爱学术
+      style: basic
+      url: https://www.ixueshu.com/
+
+    - name: SciHub学术
+      style: basic
+      url: https://www.scihub.net.cn/sci-hub/
+
+    - name: 术语在线
+      style: basic
+      url: https://www.termonline.cn/
+
+    - name: 中国专利全文下载
+      style: basic
+      url: https://www.drugfuture.com/cnpat/cn_patent.asp
+
   - name: 网址导航
 
     links:
@@ -529,59 +632,12 @@
 
   - name: 学习
     links:
-    - name: 全历史
-      style: teal
-      url: https://www.allhistory.com/
 
-    - name: 超星尔雅
-      style: teal
-      url: http://erya.mooc.chaoxing.com/
-
-    - name: 网易公开课
-      style: teal
-      url: https://open.163.com/
-
-    - name: 网易云课堂
-      style: teal
-      url: https://study.163.com/
+    - name: XXX
+      style: basic
+      url: https://www.jsr9.com/
       
-    - name: iData
+    - name: XXXX
       style: basic
-      url: https://www.cn-ki.net/
-
-    - name: 地图书
-      style: basic
-      url: https://www.ditushu.com/
-
-    - name: 高德开放平台
-      style: basic
-      url: https://lbs.amap.com/
-
-    - name: 我要自学网
-      style: basic
-      url: https://www.51zxw.net/
-
-    - name: 中国大学MOOC
-      style: black
-      url: https://www.icourse163.org/
-
-    - name: WikiHow
-      style: black
-      url: https://zh.wikihow.com
-
-    - name: 慕课网
-      style: basic
-      url: https://www.imooc.com/
-
-    - name: 大学资源网
-      style: basic
-      url: http://www.dxzy163.com/
-
-    - name: 科塔学术导航
-      style: basic
-      url: https://site.sciping.com/
-
-    - name: 译学馆
-      style: basic
-      url: https://www.yxgapp.com/
+      url: https://www.uump4.net/
       
