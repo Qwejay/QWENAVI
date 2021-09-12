@@ -80,157 +80,8 @@
       style: green
       url: https://www.yinxiang.com/
 
-    - name: 全历史
-      style: teal
-      url: https://www.allhistory.com/
 
-    - name: 超星尔雅
-      style: teal
-      url: http://erya.mooc.chaoxing.com/
-
-    - name: 网易公开课
-      style: teal
-      url: https://open.163.com/
-
-    - name: 网易云课堂
-      style: teal
-      url: https://study.163.com/
-      
-    - name: iData
-      style: basic
-      url: https://www.cn-ki.net/
-
-    - name: 地图书
-      style: basic
-      url: https://www.ditushu.com/
-
-    - name: 高德开放平台
-      style: basic
-      url: https://lbs.amap.com/
-
-    - name: 我要自学网
-      style: basic
-      url: https://www.51zxw.net/
-
-    - name: 中国大学MOOC
-      style: black
-      url: https://www.icourse163.org/
-
-    - name: WikiHow
-      style: black
-      url: https://zh.wikihow.com
-
-    - name: 慕课网
-      style: basic
-      url: https://www.imooc.com/
-
-    - name: 大学资源网
-      style: basic
-      url: http://www.dxzy163.com/
-
-    - name: 科塔学术导航
-      style: basic
-      url: https://site.sciping.com/
-
-    - name: 译学馆
-      style: basic
-      url: https://www.yxgapp.com/
-
-  - name: 工具
-    links:
-    - name: BOCE测速
-      style: basic
-      url:  https://www.boce.com/http/
-
-    - name: Cloudflare
-      style: basic
-      url:  https://www.cloudflare.com/zh-cn/
-
-      
-    - name: Vercel
-      style: basic
-      url:  https://vercel.com/  
- 
-    - name: 程序员工具
-      style: basic
-      url: http://tooool.org/
-
-    - name: MikuTools
-      style: basic
-      url: https://tools.miku.ac/
-
-    - name: GitHub
-      icon: github black
-      style: basic
-      url: https://github.com/
-
-    - name: '12306'
-      icon: train red
-      style: basic
-      url: http://www.12306.cn/
-
-    - name: 快递查询
-      icon: truck olive
-      style: basic
-      url: http://www.kuaidi100.com/
-
-    - name: 大众点评
-      icon: utensils orange
-      style: basic
-      url: http://www.dianping.com/
-
-    - name: 网易邮箱
-      icon: envelope red
-      style: basic
-      url: http://email.163.com/
-
-    - name: QQ邮箱
-      icon: qq black
-      style: basic
-      url: https://mail.qq.com/
-
-    - name: 新浪邮箱
-      icon: envelope red
-      style: basic
-      url: https://mail.sina.com.cn/
-
-    - name: Gmail
-      icon: google red
-      style: basic
-      url: https://mail.google.com/
-
-    - name: 谷歌翻译
-      icon: language blue
-      style: basic
-      url: https://translate.google.cn/
-
-    - name: 百度翻译
-      icon: paw blue
-      style: basic
-      url: https://fanyi.baidu.com/
-
-    - name: 有道翻译
-      icon: red
-      style: basic
-      url: https://fanyi.youdao.com/
-
-    - name: 天眼查
-      style: basic
-      url: https://www.tianyancha.com/
-
-    - name: IPV6测试
-      style: basic
-      url: http://www.test-ipv6.com/
-
-    - name: IP查询
-      style: basic
-      url: https://www.ipaddress.com/
-
-    - name: 一个工具箱
-      style: basic
-      url: http://www.atoolbox.net/
-
-  - name: 设计·工具
+  - name: 办公·设计
     links:
 
     - name: Bigjpg
@@ -402,110 +253,98 @@
       style: basic
       url: https://www.chsi.com.cn/
 
-  - name: 社交·娱乐
+  - name: 其他
     links:
-    - name: 微博
-      icon: weibo red
+    - name: BOCE测速
       style: basic
-      url: https://weibo.com/
+      url:  https://www.boce.com/http/
 
-    - name: 微信
-      icon: weixin green
+    - name: Cloudflare
       style: basic
-      url: https://wx.qq.com/
+      url:  https://www.cloudflare.com/zh-cn/
+  
+    - name: Vercel
+      style: basic
+      url:  https://vercel.com/  
+ 
+    - name: 程序员工具
+      style: basic
+      url: http://tooool.org/
 
-    - name: 贴吧
+    - name: MikuTools
+      style: basic
+      url: https://tools.miku.ac/
+
+    - name: GitHub
+      icon: github black
+      style: basic
+      url: https://github.com/
+
+    - name: '12306'
+      icon: train red
+      style: basic
+      url: http://www.12306.cn/
+
+    - name: 快递查询
+      icon: truck olive
+      style: basic
+      url: http://www.kuaidi100.com/
+
+    - name: 大众点评
+      icon: utensils orange
+      style: basic
+      url: http://www.dianping.com/
+
+    - name: 网易邮箱
+      icon: envelope red
+      style: basic
+      url: http://email.163.com/
+
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: https://mail.qq.com/
+
+    - name: 新浪邮箱
+      icon: envelope red
+      style: basic
+      url: https://mail.sina.com.cn/
+
+    - name: Gmail
+      icon: google red
+      style: basic
+      url: https://mail.google.com/
+
+    - name: 谷歌翻译
+      icon: language blue
+      style: basic
+      url: https://translate.google.cn/
+
+    - name: 百度翻译
       icon: paw blue
       style: basic
-      url: https://tieba.baidu.com/
+      url: https://fanyi.baidu.com/
 
-    - name: 知乎
-      icon: zhihu blue
+    - name: 有道翻译
+      icon: red
       style: basic
-      url: https://www.zhihu.com/
+      url: https://fanyi.youdao.com/
 
-    - name: Quora
-      icon: quora red
+    - name: 天眼查
       style: basic
-      url: https://www.quora.com/
+      url: https://www.tianyancha.com/
 
-    - name: Facebook
-      icon: facebook f blue
+    - name: IPV6测试
       style: basic
-      url: https://www.facebook.com/
+      url: http://www.test-ipv6.com/
 
-    - name: Tumblr
-      icon: tumblr blue
+    - name: IP查询
       style: basic
-      url: https://www.tumblr.com/
+      url: https://www.ipaddress.com/
 
-    - name: Instagram
-      icon: instagram pink
+    - name: 一个工具箱
       style: basic
-      url: https://www.instagram.com/
-
-    - name: LinkedIn
-      icon: linkedin blue
-      style: basic
-      url: https://www.linkedin.com/
-
-    - name: 哔哩哔哩
-      style: pink
-      url: https://bilibili.com/
-      
-    - name: 优酷
-      style: basic
-      url: https://youku.com/
-
-    - name: Youtube
-      icon: youtube red
-      style: basic
-      url: https://youtube.com/
-
-    - name: 芒果
-      style: orange
-      url: http://mgtv.com/
-
-    - name: 腾讯视频
-      style: basic
-      url: https://v.qq.com/
-
-    - name: 爱奇艺
-      style: green
-      url: https://iqiyi.com/
-
-    - name: AcFun
-      style: orange
-      url: https://www.acfun.cn/
-
-    - name: 豆瓣电影
-      icon: film blue
-      style: basic
-      url: https://movie.douban.com/
-
-    - name: QQ音乐
-      style: green
-      url: https://y.qq.com/
-
-    - name: 网易云音乐
-      style: red
-      url: https://music.163.com/
-
-    - name: 虾米
-      style: orange
-      url: https://xiami.com/
-
-    - name: 酷狗
-      style: blue
-      url: http://www.kugou.com/
-
-    - name: 虎牙
-      style: basic
-      url: https://www.huya.com/
-
-    - name: 斗鱼
-      style: orange
-      url: https://douyu.com/
+      url: http://www.atoolbox.net/
 
 - categories:
   - name: 学术·导航
@@ -523,6 +362,10 @@
     - name: 中国知网
       style: basic
       url: https://www.cnki.net/
+
+    - name: 中国知网镜像
+      style: basic
+      url: https://epub.cnki.net.vpn.xue338.com/kns/brief/Default_Result.aspx?code=SCDB#
 
     - name: iData知识搜索
       style: basic
@@ -555,6 +398,74 @@
     - name: 中国专利全文下载
       style: basic
       url: https://www.drugfuture.com/cnpat/cn_patent.asp
+
+    - name: 百度文库下载
+      style: basic
+      url: http://www.vip9945.com/
+
+    - name: 中国专利全文下载
+      style: basic
+      url: https://www.drugfuture.com/cnpat/cn_patent.asp
+
+    - name: 中国专利全文下载
+      style: basic
+      url: https://www.drugfuture.com/cnpat/cn_patent.asp
+
+    - name: 中国专利全文下载
+      style: basic
+      url: https://www.drugfuture.com/cnpat/cn_patent.asp
+
+    - name: 全历史
+      style: teal
+      url: https://www.allhistory.com/
+
+    - name: 超星尔雅
+      style: teal
+      url: http://erya.mooc.chaoxing.com/
+
+    - name: 网易公开课
+      style: teal
+      url: https://open.163.com/
+
+    - name: 网易云课堂
+      style: teal
+      url: https://study.163.com/
+
+    - name: 地图书
+      style: basic
+      url: https://www.ditushu.com/
+
+    - name: 高德开放平台
+      style: basic
+      url: https://lbs.amap.com/
+
+    - name: 我要自学网
+      style: basic
+      url: https://www.51zxw.net/
+
+    - name: 中国大学MOOC
+      style: black
+      url: https://www.icourse163.org/
+
+    - name: WikiHow
+      style: black
+      url: https://zh.wikihow.com
+
+    - name: 慕课网
+      style: basic
+      url: https://www.imooc.com/
+
+    - name: 大学资源网
+      style: basic
+      url: http://www.dxzy163.com/
+
+    - name: 科塔学术导航
+      style: basic
+      url: https://site.sciping.com/
+
+    - name: 译学馆
+      style: basic
+      url: https://www.yxgapp.com/
 
   - name: 网址导航
 
@@ -630,7 +541,7 @@
       style: basic
       url: https://www.uump4.net/
 
-  - name: 学习
+  - name: XXX
     links:
 
     - name: XXX
