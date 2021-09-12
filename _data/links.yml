@@ -18,6 +18,10 @@
       style: teal
       url: https://36kr.com/
 
+    - name: 果汁排行榜
+      style: basic
+      url: http://guozhivip.com/rank/
+
     - name: 吾爱破解
       style: red
       url: https://www.52pojie.cn/
@@ -347,6 +351,57 @@
       url: http://www.atoolbox.net/
 
 - categories:
+  - name: 知识·导航
+    links:
+
+    - name: 全历史
+      style: teal
+      url: https://www.allhistory.com/
+
+    - name: 超星尔雅
+      style: teal
+      url: http://erya.mooc.chaoxing.com/
+
+    - name: 网易公开课
+      style: teal
+      url: https://open.163.com/
+
+    - name: 网易云课堂
+      style: teal
+      url: https://study.163.com/
+
+    - name: 地图书
+      style: basic
+      url: https://www.ditushu.com/
+
+    - name: 高德开放平台
+      style: basic
+      url: https://lbs.amap.com/
+
+    - name: 我要自学网
+      style: basic
+      url: https://www.51zxw.net/
+
+    - name: 中国大学MOOC
+      style: black
+      url: https://www.icourse163.org/
+
+    - name: WikiHow
+      style: black
+      url: https://zh.wikihow.com
+
+    - name: 慕课网
+      style: basic
+      url: https://www.imooc.com/
+
+    - name: 大学资源网
+      style: basic
+      url: http://www.dxzy163.com/
+
+    - name: 译学馆
+      style: basic
+      url: https://www.yxgapp.com/
+
   - name: 学术·导航
     links:     
 
@@ -399,6 +454,10 @@
       style: basic
       url: https://www.drugfuture.com/cnpat/cn_patent.asp
 
+    - name: 科塔学术
+      style: basic
+      url: https://site.sciping.com/
+
     - name: 百度文库下载
       style: basic
       url: http://www.vip9945.com/
@@ -415,99 +474,17 @@
       style: basic
       url: https://www.drugfuture.com/cnpat/cn_patent.asp
 
-    - name: 全历史
-      style: teal
-      url: https://www.allhistory.com/
-
-    - name: 超星尔雅
-      style: teal
-      url: http://erya.mooc.chaoxing.com/
-
-    - name: 网易公开课
-      style: teal
-      url: https://open.163.com/
-
-    - name: 网易云课堂
-      style: teal
-      url: https://study.163.com/
-
-    - name: 地图书
-      style: basic
-      url: https://www.ditushu.com/
-
-    - name: 高德开放平台
-      style: basic
-      url: https://lbs.amap.com/
-
-    - name: 我要自学网
-      style: basic
-      url: https://www.51zxw.net/
-
-    - name: 中国大学MOOC
-      style: black
-      url: https://www.icourse163.org/
-
-    - name: WikiHow
-      style: black
-      url: https://zh.wikihow.com
-
-    - name: 慕课网
-      style: basic
-      url: https://www.imooc.com/
-
-    - name: 大学资源网
-      style: basic
-      url: http://www.dxzy163.com/
-
-    - name: 科塔学术导航
-      style: basic
-      url: https://site.sciping.com/
-
-    - name: 译学馆
-      style: basic
-      url: https://www.yxgapp.com/
-
-  - name: 网址导航
-
-    links:
-    - name: MSDN, 我告诉你
-      style: basic
-      url: https://msdn.itellyou.cn/
-
-    - name: 奶牛快传
-      style: basic
-      url: https://cowtransfer.com/
-
-    - name: 蓝奏云
-      style: basic
-      url: https://pc.woozooo.com/
-
-    - name: 百度网盘
-      style: basic
-      url: https://pan.baidu.com/
-
-    - name: Wallhaven
-      style: basic
-      url: https://wallhaven.cc/
-
-    - name: 秀米
-      style: basic
-      url: https://xiumi.us/
-
-  - name: 资源
+  - name: 资源·导航
     links:
      
-    - name: Myfreemp3
+    - name: MP3下载
       style: basic
       url: https://my-free-mp3.cc/
 
-    - name: AnyKnew
+    - name: PPT超级市场
       style: basic
       url: https://ppt.sotary.com/web/wxapp/index.html
 
-    - name: 果汁排行榜
-      style: basic
-      url: http://guozhivip.com/rank/
 
     - name: PPT超级市场
       style: basic
@@ -541,14 +518,29 @@
       style: basic
       url: https://www.uump4.net/
 
-  - name: XXX
+  - name: 其他·导航
     links:
 
-    - name: XXX
+    - name: MSDN, 我告诉你
       style: basic
-      url: https://www.jsr9.com/
-      
-    - name: XXXX
+      url: https://msdn.itellyou.cn/
+
+    - name: 奶牛快传
       style: basic
-      url: https://www.uump4.net/
-      
+      url: https://cowtransfer.com/
+
+    - name: 蓝奏云
+      style: basic
+      url: https://pc.woozooo.com/
+
+    - name: 百度网盘
+      style: basic
+      url: https://pan.baidu.com/
+
+    - name: Wallhaven
+      style: basic
+      url: https://wallhaven.cc/
+
+    - name: 秀米
+      style: basic
+      url: https://xiumi.us/
