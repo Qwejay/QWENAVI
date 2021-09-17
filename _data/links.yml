@@ -139,19 +139,7 @@
     - name: PDF24
       style: basic
       url: https://tools.pdf24.org/zh/
-      
-    - name: Icofont+
-      style: basic
-      url: https://www.iconfont.cn/
- 
-    - name: waifu2x
-      style: basic
-      url: http://waifu2x.udp.jp/
-      
-    - name: imglarger
-      style: basic
-      url: https://imglarger.com/Zh/Index/
-      
+
     - name: convertio
       style: basic
       url: https://convertio.co/zh/
@@ -159,10 +147,6 @@
     - name: office-converter
       style: basic
       url: https://cn.office-converter.com/
-      
-    - name: vectormagic
-      style: basic
-      url: https://vectormagic.com/
 
     - name: ALL TO ALL
       style: basic
@@ -175,10 +159,34 @@
     - name: Online Image Tool 
       style: basic
       url: https://www.onlineimagetool.com/zh/
-
-    - name: remove.bg
+ 
+    - name: waifu2x
       style: basic
-      url: https://www.remove.bg
+      url: http://waifu2x.udp.jp/
+      
+    - name: imglarger
+      style: basic
+      url: https://imglarger.com/Zh/Index/
+   
+    - name: vectormagic
+      style: basic
+      url: https://vectormagic.com/
+
+    - name: remove.bg（抠图1）
+      style: basic
+      url: https://www.remove.bg/r/6RUGfgs15CEGnymkxPfLxn8F?locale=zh
+
+    - name: bgremover（抠图2）
+      style: basic
+      url: https://www.aigei.com/bgremover/
+
+    - name: clippingmagic（抠图3）
+      style: basic
+      url: https://zh.clippingmagic.com/
+
+    - name: pngimg（透明素材）
+      style: basic
+      url: https://pngimg.com/
 
     - name: 100font
       style: basic
@@ -481,10 +489,6 @@
     - name: 百度文库下载
       style: basic
       url: http://www.vip9945.com/
-
-    - name: 中国专利全文下载
-      style: basic
-      url: https://www.drugfuture.com/cnpat/cn_patent.asp
 
     - name: 中文期刊服务平台
       style: basic
