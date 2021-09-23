@@ -180,9 +180,13 @@
       style: basic
       url: https://www.aigei.com/bgremover/
 
-    - name: clippingmagic（抠图3）
+    - name: pixfix（图片清晰1）
       style: basic
-      url: https://zh.clippingmagic.com/
+      url: https://bigjpg.com/
+ 
+    - name: pixfix（图片清晰2）
+      style: basic
+      url: https://zh.pixfix.com/
 
     - name: pngimg（透明素材）
       style: basic
