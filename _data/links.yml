@@ -200,6 +200,10 @@
       style: basic
       url: https://pearocr.com/
 
+    - name: 哔哩哔哩下载
+      style: basic
+      url: https://xbeibeix.com/api/bilibili/
+
   - name: 广东·政务
     links:
 
