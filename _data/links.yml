@@ -529,11 +529,11 @@
       style: basic
       url: https://www.ygdy8.com/
 
-    - name: BT电影天堂
-      style: basic
-      url: http://gif-china.cc/
-
     - name: 电影天堂
+      style: basic
+      url: https://www.dytt8.net/
+
+    - name: 阳光电影
       style: basic
       url: https://www.dygod.net/
 
