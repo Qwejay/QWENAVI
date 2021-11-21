@@ -1,13 +1,13 @@
 // hitokoto.js
 
-$.getJSON('https://v1.hitokoto.cn', function (data) {
+$.getJSON('https://v1.hitokoto.cn', function(data) {
     $('#hitokoto').attr({
         'a': 'hitokoto.cn?c=k',
         'target': '_blank'
     }).append(data.hitokoto).append(
         $('<div>').addClass('detail').text(data.from)
     );
-}).fail(function () {
+}).fail(function() {
     $('#hitokoto').attr({
         'href': 'https://i.qwejay.cn/',
         'target': '_blank'

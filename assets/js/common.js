@@ -1,14 +1,14 @@
 // common.js
 
 // menu
-$(document).ready(function () {
+$(document).ready(function() {
     // fix menu when passed
     $('.masthead').visibility({
         once: false,
-        onBottomPassed: function () {
+        onBottomPassed: function() {
             $('.fixed.menu').transition('fade in');
         },
-        onBottomPassedReverse: function () {
+        onBottomPassedReverse: function() {
             $('.fixed.menu').transition('fade out');
         }
     });
@@ -18,4 +18,3 @@ $(document).ready(function () {
 
 // masthead background
 $('.ui.inverted.masthead.segment').addClass(`bg${Math.ceil(Math.random() * 17)}`).removeClass('zoomed');
-

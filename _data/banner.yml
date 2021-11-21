@@ -1,9 +1,0 @@
-message:
-  show: true
-  hitokoto: true
-  content: Now we are on Ubuntu 20.04 LTS!
-  detail: System Operator
-  color: black
-  icon: ubuntu
-  image: false
-  link: false
