@@ -258,38 +258,37 @@
                             <a class="ui red label" href="http://www.nlc.cn/" target="_blank">国家数字图书馆</a>
                             <a class="ui basic label" href="https://www.nstl.gov.cn/" target="_blank">国家科技数字图书馆</a>
                             <a class="ui basic label" href="https://www.wikipedia.org/" target="_blank"><i class="wikipedia w black icon"></i>维基百科</a>
-                            <a class="ui basic label" href="https://ac.scmor.com/" target="_blank">谷歌学术</a>
-                            <a class="ui blue label" href="https://www.cnki.net/" target="_blank">中国知网</a>
-                            <a class="ui basic label" href="http://www.shutong123.com/" target="_blank">知网镜像2</a>
-                            <a class="ui basic label" href="https://wantwords.net/" target="_blank">万词王</a>
-                            <a class="ui basic label" href="http://www.koovin.com/" target="_blank">酷问搜索</a>
-                            <a class="ui basic label" href="http://www.gb688.cn/bzgk/gb/index" target="_blank">国家标准系统</a>
-                            <a class="ui basic label" href="http://search.cnki.com.cn/" target="_blank">知网空间</a>
-                            <a class="ui basic label" href="https://www.cn-ki.net/" target="_blank">iData知识搜索</a>
-                            <a class="ui basic label" href="https://xueshu.baidu.com/" target="_blank">百度学术</a>
-                            <a class="ui basic label" href="https://www.wanfangdata.com.cn/" target="_blank">万方网</a>
-                            <a class="ui basic label" href="http://www.cqvip.com/" target="_blank">维普网</a>
-                            <a class="ui basic label" href="https://www.ixueshu.com/" target="_blank">爱学术</a>
-                            <a class="ui basic label" href="https://www.scihub.net.cn/sci-hub/" target="_blank">SciHub学术</a>
-                            <a class="ui basic label" href="https://www.termonline.cn/" target="_blank">术语在线</a>
-                            <a class="ui basic label" href="https://www.drugfuture.com/cnpat/cn_patent.asp" target="_blank">中国专利全文下载</a>
-                            <a class="ui basic label" href="https://site.sciping.com/" target="_blank">科塔学术</a>
-                            <a class="ui basic label" href="https://www.dydata.io/" target="_blank">镝数聚</a>
-                            <a class="ui basic label" href="https://www.jiumodiary.com/" target="_blank">中鸠摩搜索</a>
-                            <a class="ui basic label" href="http://qikan.cqvip.com/" target="_blank">中文期刊服务平台</a>
-                            <a class="ui basic label" href="http:www.turnitin.com.cn" target="_blank">Turnitin</a>
-                            <a class="ui basic label" href="https://check.cnki.net/" target="_blank">知网论文检测</a>
-                            <a class="ui basic label" href="http://vpcs.cqvip.com/" target="_blank">维普论文检测</a>
-                            <a class="ui basic label" href="https://check.wanfangdata.com.cn/" target="_blank">万方论文检测</a>
-                            <a class="ui basic label" href="http://chsi.wanfangtech.net/" target="_blank">万方论文检测（学信网）</a>
-                            <a class="ui basic label" href="https://www.paperpass.com/" target="_blank">PaperPass</a>
-                            <a class="ui basic label" href="https://www.paperyy.com/" target="_blank">Paperyy</a>
 							</div>
                     </div>
                     <div class="links column">
                         <div class="ui top attached label">学术·导航</div>
                         <div class="ui labels">
-                           <a class="ui basic label" href="http://www.lcdwiki.com/zh" target="_blank">LCD Wiki</a>
+                           <a class="ui basic label" href="https://ac.scmor.com/" target="_blank">谷歌学术</a>
+                           <a class="ui blue label" href="https://www.cnki.net/" target="_blank">中国知网</a>
+                           <a class="ui basic label" href="http://www.shutong123.com/" target="_blank">知网镜像2</a>
+                           <a class="ui basic label" href="https://wantwords.net/" target="_blank">万词王</a>
+                           <a class="ui basic label" href="http://www.koovin.com/" target="_blank">酷问搜索</a>
+                           <a class="ui basic label" href="http://www.gb688.cn/bzgk/gb/index" target="_blank">国家标准系统</a>
+                           <a class="ui basic label" href="http://search.cnki.com.cn/" target="_blank">知网空间</a>
+                           <a class="ui basic label" href="https://www.cn-ki.net/" target="_blank">iData知识搜索</a>
+                           <a class="ui basic label" href="https://xueshu.baidu.com/" target="_blank">百度学术</a>
+                           <a class="ui basic label" href="https://www.wanfangdata.com.cn/" target="_blank">万方网</a>
+                           <a class="ui basic label" href="http://www.cqvip.com/" target="_blank">维普网</a>
+                           <a class="ui basic label" href="https://www.ixueshu.com/" target="_blank">爱学术</a>
+                           <a class="ui basic label" href="https://www.scihub.net.cn/sci-hub/" target="_blank">SciHub学术</a>
+                           <a class="ui basic label" href="https://www.termonline.cn/" target="_blank">术语在线</a>
+                           <a class="ui basic label" href="https://www.drugfuture.com/cnpat/cn_patent.asp" target="_blank">中国专利全文下载</a>
+                           <a class="ui basic label" href="https://site.sciping.com/" target="_blank">科塔学术</a>
+                           <a class="ui basic label" href="https://www.dydata.io/" target="_blank">镝数聚</a>
+                           <a class="ui basic label" href="https://www.jiumodiary.com/" target="_blank">中鸠摩搜索</a>
+                           <a class="ui basic label" href="http://qikan.cqvip.com/" target="_blank">中文期刊服务平台</a>
+                           <a class="ui basic label" href="http:www.turnitin.com.cn" target="_blank">Turnitin</a>
+                           <a class="ui basic label" href="https://check.cnki.net/" target="_blank">知网论文检测</a>
+                           <a class="ui basic label" href="http://vpcs.cqvip.com/" target="_blank">维普论文检测</a>
+                           <a class="ui basic label" href="https://check.wanfangdata.com.cn/" target="_blank">万方论文检测</a>
+                           <a class="ui basic label" href="http://chsi.wanfangtech.net/" target="_blank">万方论文检测（学信网）</a>
+                           <a class="ui basic label" href="https://www.paperpass.com/" target="_blank">PaperPass</a>
+                           <a class="ui basic label" href="https://www.paperyy.com/" target="_blank">Paperyy</a>
                         </div>
                     </div>
                     <div class="links column">
@@ -351,6 +350,7 @@
                 </div>
             </div>
         </div>
+        ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////        
         <div class="ui inverted vertical footer segment">
             <div class="ui container">
                 <div class="ui stackable inverted divided equal height stackable grid">
@@ -396,3 +396,4 @@
 
 </body>
 </html>
+<a class="ui basic label" href="http://www.lcdwiki.com/zh" target="_blank">LCD Wiki</a>
