@@ -64,7 +64,11 @@ button {
 }
 
 .bar6 button:before {
-    content: "百度搜索";
+    content: "";
     font-size: 16px;
     color: #ffffff;
 }
+
+.ui.dropdown.select {
+    width: 20px; /* 指定长度为200px */
+  }

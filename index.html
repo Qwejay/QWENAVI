@@ -86,12 +86,29 @@
                 <a id="hitokoto" class="ui black pointing above label"><i class="quote left icon"></i></a>
                 <div id="container">
                     <div class="search bar6">
-                        <form action="https://www.baidu.com/s" target="_self" method="get">
-                            <input type="text" id="search-input" name="wd" placeholder="搜索" autofocus="">
-                            <button type="submit"></button>
+                        <form class="ui form" id="searchForm">
+                            <div class="inline fields">
+                                    <input type="text" id="searchInput" placeholder="搜索..." />
+                                    <select class="ui selection dropdown" id="searchEngine">
+                                        <option value="https://www.baidu.com/s?wd=">百度</option>
+                                        <option value="https://www.google.com/search?q=">谷歌</option>
+                                        <option value="https://cn.bing.com/search?q=">必应</option>
+                                        <option value="https://search.yahoo.com/search?p=">雅虎</option>
+                                    </select>
+                                </div>
+                                <button class="ui button" type="submit">搜索</button>
+                            </div>
                         </form>
                     </div>
-                    
+                    <script>
+                        $('.ui.dropdown').dropdown();
+                        document.getElementById('searchForm').onsubmit = function(event) {
+                            event.preventDefault(); // 阻止表单默认提交行为
+                            var searchInput = document.getElementById('searchInput').value;
+                            var searchEngine = document.getElementById('searchEngine').value;
+                            window.open(searchEngine + encodeURIComponent(searchInput), '_blank');
+                        };
+                    </script>
                 <div id="search-shortcuts" class="ui labels">
                     <a class="ui black label" data-search-service-id="weixin" data-tooltip="微信" href="https://wx.qq.com/" data-variation="mini basic" data-position="top center" data-inverted=""><i class="weixin green inverted fitted icon"></i></a>
                     <a class="ui black label" data-search-service-id="google" data-tooltip="Google" href="https://www.google.com/" data-variation="mini basic" data-position="top center" data-inverted=""><i class="google red inverted fitted icon"></i></a>
